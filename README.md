@@ -1,1 +1,3 @@
-# openshift-argocd-demo
+# ArgoCD Demo on OpenShift4
+
+WIP...
