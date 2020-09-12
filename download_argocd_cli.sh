@@ -16,4 +16,4 @@ else
 fi
 
 echo "ArgoCD CLI install completed."
-argocd version
+argocd version --
