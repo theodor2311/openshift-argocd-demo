@@ -55,7 +55,7 @@ spec:
     openShiftOAuth: true
   rbac:
     policy: |
-      g, system:cluster-admins, role:admin
+      g, argocd-admins, role:admin
 EOF
 
 sleep 20
